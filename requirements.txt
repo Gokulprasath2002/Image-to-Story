@@ -2,4 +2,4 @@ langchain_community==0.0.20
 python-dotenv==1.0.1
 streamlit==1.29.0
 transformers==4.37.2
-torch==2.2.0+cu118
+torch==2.2.0
